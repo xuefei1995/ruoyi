@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "common",
+      "type": "com.xuefei.configuration.CommonProps",
+      "sourceType": "com.xuefei.configuration.CommonProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "common.max-inactive-interval",
+      "type": "java.lang.Integer",
+      "sourceType": "com.xuefei.configuration.CommonProps"
+    }
+  ],
+  "hints": []
+}

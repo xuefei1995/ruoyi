@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/rbac?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+  application:
+    name: oa-provider #项目名称
+
+mybatis:
+  #  对应的sql映射
+  mapper-locations: classpath:mapper/*.xml
+#  type-aliases-package:
+
+# 显示sql日志
+logging:
+  level:
+    com.xuefei.dao: debug
+
+dubbo:
+  protocol:
+    name: dubbo #使用的协议
+    port: 12300 #端口号
+    host: 192.168.31.123 #dubbo服务提供方ip
+  registry:
+    address: zookeeper://121.196.43.167:2181 #注册中心地址
+  scan:
+    base-packages: com.xuefei.service
+  config-center:
+    timeout: 10000

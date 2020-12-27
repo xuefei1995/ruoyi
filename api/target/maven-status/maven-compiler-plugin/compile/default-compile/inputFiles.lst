@@ -1,0 +1,16 @@
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/dto/common/BaseResp.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/Role.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/dto/manager/AccountInfoDto.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/service/manager/IManagerService.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/MenuExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/RolePermission.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/RolePermissionExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/PermissionExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/Account.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/RoleExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/Menu.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/AccountExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/AccountRole.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/dto/common/BaseRespEumn.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/AccountRoleExample.java
+/Users/xuefei/Documents/projects/springboots/ruoyi/api/src/main/java/com/xuefei/pojo/manager/Permission.java

@@ -1,0 +1,20 @@
+server:
+  port: 801
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: oa-web
+
+dubbo:
+  registry:
+    address: zookeeper://121.196.43.167:2181 #注册中心地址
+
+common:
+  maxInactiveInterval: 500
+
+swagger:
+  base-package: com.xuefei.controller
+  title: ruoyi
+  description: 接口文档
